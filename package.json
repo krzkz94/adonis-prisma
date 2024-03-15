@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "@adonisjs/auth": "^8.2.3",
-    "@adonisjs/core": "^5.9.0",
+    "@adonisjs/core": "^6.3.1",
     "@adonisjs/mrm-preset": "^5.0.3",
     "@adonisjs/require-ts": "^2.0.13",
     "@prisma/client": "^5.5.2",
